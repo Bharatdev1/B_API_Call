@@ -1,7 +1,7 @@
 {
-  "name": "bapi",
+  "name": "is-EVEN",
   "version": "1.0.0",
-  "description": "calling api ",
+  "description": "If number is even or odd",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
