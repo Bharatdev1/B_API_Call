@@ -13,4 +13,4 @@ let beven= (number)=>{
   }
 }
 
-module.exports= BEVEN
+module.exports= beven
