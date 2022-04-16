@@ -1,5 +1,5 @@
 // Enter number only
-let isEVEN= (number)=>{
+let BEVEN= (number)=>{
   try{
     if (number%2==0 && Number.isInteger(number)){
       return `${number} is even number`
@@ -13,4 +13,4 @@ let isEVEN= (number)=>{
   }
 }
 
-module.exports= isEVEN
+module.exports= BEVEN
