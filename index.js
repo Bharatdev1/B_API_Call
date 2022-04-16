@@ -1,5 +1,5 @@
 // Enter number only
-let BEVEN= (number)=>{
+let beven= (number)=>{
   try{
     if (number%2==0 && Number.isInteger(number)){
       return `${number} is even number`
